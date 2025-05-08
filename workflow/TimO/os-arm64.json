@@ -1,11 +1,11 @@
 {
-    "OSActivation.default": "Retail",
+    "OSActivation.default": "Volume",
     "OSActivation.values": [
         "Retail",
         "Volume"
     ],
-    "OSEdition.default": "Pro",
-    "OSEditionId.default": "Professional",
+    "OSEdition.default": "Education",
+    "OSEditionId.default": "Education",
     "OSEdition.values": [
         {
             "Edition": "Home",
